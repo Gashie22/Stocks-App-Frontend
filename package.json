@@ -1,5 +1,5 @@
 {
-  "name": "stocks",
+  "name": "pos-frontend",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -8,12 +8,13 @@
     "@testing-library/user-event": "^13.5.0",
     "antd": "^5.16.5",
     "axios": "^1.6.8",
-    "or": "^0.2.0",
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0",
+    "bootstrap": "^5.3.3",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
     "react-redux": "^9.1.1",
     "react-router-dom": "^6.23.0",
     "react-scripts": "5.0.1",
+    "react-to-print": "^2.15.1",
     "redux": "^5.0.1",
     "redux-devtools-extension": "^2.13.9",
     "redux-thunk": "^3.1.0",
